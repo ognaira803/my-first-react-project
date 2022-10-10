@@ -1,0 +1,17 @@
+.footer {
+  background-color: #000;
+  color: #eaeaea;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.footer p {
+  font-size: 1.2rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer p span {
+  color: aquamarine;
+}/*# sourceMappingURL=footer.css.map */

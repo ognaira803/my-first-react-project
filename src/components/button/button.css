@@ -1,0 +1,14 @@
+.button__wrapper a {
+  text-decoration: none;
+  display: block;
+}
+.button__wrapper a button {
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  padding: 10 25;
+  background-color: purple;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=button.css.map */

@@ -1,0 +1,9 @@
+.overall {
+  background: #eaeaea;
+}
+.overall .inner__d {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}/*# sourceMappingURL=contact.css.map */
